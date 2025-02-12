@@ -1,3 +1,3 @@
 # Sumukh
-AIMl
-bengaluru
+AIML
+Bengaluru
