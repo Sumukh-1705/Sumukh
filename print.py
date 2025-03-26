@@ -1,1 +1,1 @@
-printf("HI BNMIT");
+print("HI BNMIT");
